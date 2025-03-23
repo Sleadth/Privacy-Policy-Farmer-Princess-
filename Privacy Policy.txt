@@ -1,0 +1,41 @@
+Privacy Policy
+Last Updated: [24.03.2025]
+
+This privacy policy explains how we handle information while you use the [Farmer Princess] app. Our game is designed for children aged 0-12 and aims to provide a safe and enjoyable experience.
+
+1. Data Collection
+We do not collect any personal data within the game. However, the game includes third-party advertisements through Google AdMob.
+
+AdMob Ads and Third Parties
+We use Google AdMob to display ads within the game. AdMob may collect some anonymous data to provide interest-based ads, including:
+
+Device information (model, operating system, etc.)
+Ad interactions
+IP address (for regional targeting, but not for personal identification)
+For more information about AdMob, visit:
+Google Ads Policy
+
+If you do not want your child to receive interest-based ads, you can disable "Personalized Ads" in your device settings.
+
+2. Child Safety
+Our game:
+ Does not contain any violent content.
+ Does not collect personal data or location information.
+ Does not include in-app purchases (IAP) or external links.
+
+We prioritize children's safety and ensure our game complies with child-friendly policies.
+
+3. Parental Rights
+If you have any concerns or questions, you can contact us through the following channels:
+
+Email: [SleadthToprak@gmail.com]
+
+As a parent, you can manage your child's privacy settings on your device and control ad preferences.
+
+4. Policy Changes
+This privacy policy may be updated from time to time. If significant changes occur, we will share the updated policy within the game or on the app store.
+
+
+If you have any questions about our privacy policy, feel free to contact us.
+
+Thank you
